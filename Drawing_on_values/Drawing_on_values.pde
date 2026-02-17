@@ -97,10 +97,14 @@ fill(255, 0, 0);
 text("Perseverance", 50, 80);
 
 //cart//
-fill(200, 140, 0);
+fill(140, 90, 0);
 stroke(80, 80, 80);
 strokeWeight(10);
 rect(140, 220, 100, 70);
 strokeWeight(3);
 stroke(0);
-line(140, 240, 240, 240);
+line(145, 240, 235, 240);
+line(145, 270, 235, 270);
+fill(66, 66, 66);
+ellipse(165, 290, 20, 20);
+ellipse(215, 290, 20, 20);
